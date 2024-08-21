@@ -1,0 +1,14 @@
+C:\Users\ntzzy\source\repos\ListsFix\ListsFix\obj\Debug\net8.0\ListsFix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ntzzy\source\repos\ListsFix\ListsFix\obj\Debug\net8.0\ListsFix.AssemblyInfoInputs.cache
+C:\Users\ntzzy\source\repos\ListsFix\ListsFix\obj\Debug\net8.0\ListsFix.AssemblyInfo.cs
+C:\Users\ntzzy\source\repos\ListsFix\ListsFix\obj\Debug\net8.0\ListsFix.csproj.CoreCompileInputs.cache
+C:\Users\ntzzy\source\repos\ListsFix\ListsFix\bin\Debug\net8.0\ListsFix.exe
+C:\Users\ntzzy\source\repos\ListsFix\ListsFix\bin\Debug\net8.0\ListsFix.deps.json
+C:\Users\ntzzy\source\repos\ListsFix\ListsFix\bin\Debug\net8.0\ListsFix.runtimeconfig.json
+C:\Users\ntzzy\source\repos\ListsFix\ListsFix\bin\Debug\net8.0\ListsFix.dll
+C:\Users\ntzzy\source\repos\ListsFix\ListsFix\bin\Debug\net8.0\ListsFix.pdb
+C:\Users\ntzzy\source\repos\ListsFix\ListsFix\obj\Debug\net8.0\ListsFix.dll
+C:\Users\ntzzy\source\repos\ListsFix\ListsFix\obj\Debug\net8.0\refint\ListsFix.dll
+C:\Users\ntzzy\source\repos\ListsFix\ListsFix\obj\Debug\net8.0\ListsFix.pdb
+C:\Users\ntzzy\source\repos\ListsFix\ListsFix\obj\Debug\net8.0\ListsFix.genruntimeconfig.cache
+C:\Users\ntzzy\source\repos\ListsFix\ListsFix\obj\Debug\net8.0\ref\ListsFix.dll
